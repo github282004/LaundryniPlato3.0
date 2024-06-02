@@ -40,9 +40,9 @@
             this.panel1.Controls.Add(this.NoLogoutButton);
             this.panel1.Controls.Add(this.YesLogoutButton);
             this.panel1.Controls.Add(this.label1);
-            this.panel1.Location = new System.Drawing.Point(148, 65);
+            this.panel1.Location = new System.Drawing.Point(181, 209);
             this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(333, 189);
+            this.panel1.Size = new System.Drawing.Size(333, 161);
             this.panel1.TabIndex = 0;
             // 
             // NoLogoutButton
@@ -89,7 +89,7 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
             this.BackgroundImage = global::LaundryManagementSystem.Properties.Resources._321314;
-            this.ClientSize = new System.Drawing.Size(645, 315);
+            this.ClientSize = new System.Drawing.Size(743, 605);
             this.Controls.Add(this.panel1);
             this.Name = "LogOut";
             this.Text = "LogOut";

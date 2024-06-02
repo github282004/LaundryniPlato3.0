@@ -62,10 +62,11 @@
             this.pictureBox9.AccessibleRole = System.Windows.Forms.AccessibleRole.None;
             this.pictureBox9.BackColor = System.Drawing.Color.Transparent;
             this.pictureBox9.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("pictureBox9.BackgroundImage")));
+            this.pictureBox9.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Center;
             this.pictureBox9.Cursor = System.Windows.Forms.Cursors.Default;
-            this.pictureBox9.Location = new System.Drawing.Point(563, 99);
+            this.pictureBox9.Location = new System.Drawing.Point(556, 103);
             this.pictureBox9.Name = "pictureBox9";
-            this.pictureBox9.Size = new System.Drawing.Size(153, 148);
+            this.pictureBox9.Size = new System.Drawing.Size(138, 136);
             this.pictureBox9.TabIndex = 39;
             this.pictureBox9.TabStop = false;
             // 
@@ -233,7 +234,10 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("$this.BackgroundImage")));
+            this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.Controls.Add(this.pictureBox9);
+            this.Controls.Add(this.pictureBox7);
             this.Controls.Add(this.label8);
             this.Controls.Add(this.label7);
             this.Controls.Add(this.label6);
@@ -244,7 +248,6 @@
             this.Controls.Add(this.label1);
             this.Controls.Add(this.pictureBox5);
             this.Controls.Add(this.pictureBox6);
-            this.Controls.Add(this.pictureBox7);
             this.Controls.Add(this.pictureBox8);
             this.Controls.Add(this.pictureBox4);
             this.Controls.Add(this.pictureBox3);

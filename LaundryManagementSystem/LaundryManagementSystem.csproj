@@ -102,6 +102,12 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="UClogout.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UClogout.Designer.cs">
+      <DependentUpon>UClogout.cs</DependentUpon>
+    </Compile>
     <Compile Include="UserControl1.cs">
       <SubType>UserControl</SubType>
     </Compile>
@@ -113,6 +119,12 @@
     </Compile>
     <Compile Include="UserControl2.Designer.cs">
       <DependentUpon>UserControl2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControl3payment.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControl3payment.Designer.cs">
+      <DependentUpon>UserControl3payment.cs</DependentUpon>
     </Compile>
     <EmbeddedResource Include="CashPayment.resx">
       <DependentUpon>CashPayment.cs</DependentUpon>
@@ -151,11 +163,17 @@
       <DependentUpon>Resources.resx</DependentUpon>
       <DesignTime>True</DesignTime>
     </Compile>
+    <EmbeddedResource Include="UClogout.resx">
+      <DependentUpon>UClogout.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="UserControl1.resx">
       <DependentUpon>UserControl1.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="UserControl2.resx">
       <DependentUpon>UserControl2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControl3payment.resx">
+      <DependentUpon>UserControl3payment.cs</DependentUpon>
     </EmbeddedResource>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>

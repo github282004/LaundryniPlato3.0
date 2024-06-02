@@ -1,0 +1,385 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PCB\\source\\repos\\LaundryniPlato3.0\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BA7197B5-D4E3-4E35-9016-BB13368D810E}|LaundryManagementSystem\\LaundryManagementSystem.csproj|c:\\users\\pcb\\source\\repos\\laundryniplato3.0\\laundrymanagementsystem\\usercontrol3payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA7197B5-D4E3-4E35-9016-BB13368D810E}|LaundryManagementSystem\\LaundryManagementSystem.csproj|solutionrelative:laundrymanagementsystem\\usercontrol3payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA7197B5-D4E3-4E35-9016-BB13368D810E}|LaundryManagementSystem\\LaundryManagementSystem.csproj|c:\\users\\pcb\\source\\repos\\laundryniplato3.0\\laundrymanagementsystem\\usercontrol3payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BA7197B5-D4E3-4E35-9016-BB13368D810E}|LaundryManagementSystem\\LaundryManagementSystem.csproj|solutionrelative:laundrymanagementsystem\\usercontrol3payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA7197B5-D4E3-4E35-9016-BB13368D810E}|LaundryManagementSystem\\LaundryManagementSystem.csproj|c:\\users\\pcb\\source\\repos\\laundryniplato3.0\\laundrymanagementsystem\\dashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA7197B5-D4E3-4E35-9016-BB13368D810E}|LaundryManagementSystem\\LaundryManagementSystem.csproj|solutionrelative:laundrymanagementsystem\\dashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA7197B5-D4E3-4E35-9016-BB13368D810E}|LaundryManagementSystem\\LaundryManagementSystem.csproj|c:\\users\\pcb\\source\\repos\\laundryniplato3.0\\laundrymanagementsystem\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA7197B5-D4E3-4E35-9016-BB13368D810E}|LaundryManagementSystem\\LaundryManagementSystem.csproj|solutionrelative:laundrymanagementsystem\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA7197B5-D4E3-4E35-9016-BB13368D810E}|LaundryManagementSystem\\LaundryManagementSystem.csproj|c:\\users\\pcb\\source\\repos\\laundryniplato3.0\\laundrymanagementsystem\\usercontrol2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA7197B5-D4E3-4E35-9016-BB13368D810E}|LaundryManagementSystem\\LaundryManagementSystem.csproj|solutionrelative:laundrymanagementsystem\\usercontrol2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA7197B5-D4E3-4E35-9016-BB13368D810E}|LaundryManagementSystem\\LaundryManagementSystem.csproj|c:\\users\\pcb\\source\\repos\\laundryniplato3.0\\laundrymanagementsystem\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BA7197B5-D4E3-4E35-9016-BB13368D810E}|LaundryManagementSystem\\LaundryManagementSystem.csproj|solutionrelative:laundrymanagementsystem\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA7197B5-D4E3-4E35-9016-BB13368D810E}|LaundryManagementSystem\\LaundryManagementSystem.csproj|c:\\users\\pcb\\source\\repos\\laundryniplato3.0\\laundrymanagementsystem\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA7197B5-D4E3-4E35-9016-BB13368D810E}|LaundryManagementSystem\\LaundryManagementSystem.csproj|solutionrelative:laundrymanagementsystem\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA7197B5-D4E3-4E35-9016-BB13368D810E}|LaundryManagementSystem\\LaundryManagementSystem.csproj|c:\\users\\pcb\\source\\repos\\laundryniplato3.0\\laundrymanagementsystem\\uclogout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BA7197B5-D4E3-4E35-9016-BB13368D810E}|LaundryManagementSystem\\LaundryManagementSystem.csproj|solutionrelative:laundrymanagementsystem\\uclogout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA7197B5-D4E3-4E35-9016-BB13368D810E}|LaundryManagementSystem\\LaundryManagementSystem.csproj|c:\\users\\pcb\\source\\repos\\laundryniplato3.0\\laundrymanagementsystem\\usercontrol1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA7197B5-D4E3-4E35-9016-BB13368D810E}|LaundryManagementSystem\\LaundryManagementSystem.csproj|solutionrelative:laundrymanagementsystem\\usercontrol1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA7197B5-D4E3-4E35-9016-BB13368D810E}|LaundryManagementSystem\\LaundryManagementSystem.csproj|c:\\users\\pcb\\source\\repos\\laundryniplato3.0\\laundrymanagementsystem\\uclogout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA7197B5-D4E3-4E35-9016-BB13368D810E}|LaundryManagementSystem\\LaundryManagementSystem.csproj|solutionrelative:laundrymanagementsystem\\uclogout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA7197B5-D4E3-4E35-9016-BB13368D810E}|LaundryManagementSystem\\LaundryManagementSystem.csproj|c:\\users\\pcb\\source\\repos\\laundryniplato3.0\\laundrymanagementsystem\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BA7197B5-D4E3-4E35-9016-BB13368D810E}|LaundryManagementSystem\\LaundryManagementSystem.csproj|solutionrelative:laundrymanagementsystem\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA7197B5-D4E3-4E35-9016-BB13368D810E}|LaundryManagementSystem\\LaundryManagementSystem.csproj|c:\\users\\pcb\\source\\repos\\laundryniplato3.0\\laundrymanagementsystem\\machinelist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA7197B5-D4E3-4E35-9016-BB13368D810E}|LaundryManagementSystem\\LaundryManagementSystem.csproj|solutionrelative:laundrymanagementsystem\\machinelist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA7197B5-D4E3-4E35-9016-BB13368D810E}|LaundryManagementSystem\\LaundryManagementSystem.csproj|c:\\users\\pcb\\source\\repos\\laundryniplato3.0\\laundrymanagementsystem\\machinelist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BA7197B5-D4E3-4E35-9016-BB13368D810E}|LaundryManagementSystem\\LaundryManagementSystem.csproj|solutionrelative:laundrymanagementsystem\\machinelist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA7197B5-D4E3-4E35-9016-BB13368D810E}|LaundryManagementSystem\\LaundryManagementSystem.csproj|c:\\users\\pcb\\source\\repos\\laundryniplato3.0\\laundrymanagementsystem\\loginhomepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BA7197B5-D4E3-4E35-9016-BB13368D810E}|LaundryManagementSystem\\LaundryManagementSystem.csproj|solutionrelative:laundrymanagementsystem\\loginhomepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA7197B5-D4E3-4E35-9016-BB13368D810E}|LaundryManagementSystem\\LaundryManagementSystem.csproj|c:\\users\\pcb\\source\\repos\\laundryniplato3.0\\laundrymanagementsystem\\usercontrol1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BA7197B5-D4E3-4E35-9016-BB13368D810E}|LaundryManagementSystem\\LaundryManagementSystem.csproj|solutionrelative:laundrymanagementsystem\\usercontrol1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA7197B5-D4E3-4E35-9016-BB13368D810E}|LaundryManagementSystem\\LaundryManagementSystem.csproj|c:\\users\\pcb\\source\\repos\\laundryniplato3.0\\laundrymanagementsystem\\usercontrol2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BA7197B5-D4E3-4E35-9016-BB13368D810E}|LaundryManagementSystem\\LaundryManagementSystem.csproj|solutionrelative:laundrymanagementsystem\\usercontrol2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA7197B5-D4E3-4E35-9016-BB13368D810E}|LaundryManagementSystem\\LaundryManagementSystem.csproj|c:\\users\\pcb\\source\\repos\\laundryniplato3.0\\laundrymanagementsystem\\usercontrol2.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{BA7197B5-D4E3-4E35-9016-BB13368D810E}|LaundryManagementSystem\\LaundryManagementSystem.csproj|solutionrelative:laundrymanagementsystem\\usercontrol2.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA7197B5-D4E3-4E35-9016-BB13368D810E}|LaundryManagementSystem\\LaundryManagementSystem.csproj|c:\\users\\pcb\\source\\repos\\laundryniplato3.0\\laundrymanagementsystem\\usercontrol3payment.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA7197B5-D4E3-4E35-9016-BB13368D810E}|LaundryManagementSystem\\LaundryManagementSystem.csproj|solutionrelative:laundrymanagementsystem\\usercontrol3payment.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA7197B5-D4E3-4E35-9016-BB13368D810E}|LaundryManagementSystem\\LaundryManagementSystem.csproj|c:\\users\\pcb\\source\\repos\\laundryniplato3.0\\laundrymanagementsystem\\dashboard.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{BA7197B5-D4E3-4E35-9016-BB13368D810E}|LaundryManagementSystem\\LaundryManagementSystem.csproj|solutionrelative:laundrymanagementsystem\\dashboard.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA7197B5-D4E3-4E35-9016-BB13368D810E}|LaundryManagementSystem\\LaundryManagementSystem.csproj|c:\\users\\pcb\\source\\repos\\laundryniplato3.0\\laundrymanagementsystem\\usercontrol2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA7197B5-D4E3-4E35-9016-BB13368D810E}|LaundryManagementSystem\\LaundryManagementSystem.csproj|solutionrelative:laundrymanagementsystem\\usercontrol2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA7197B5-D4E3-4E35-9016-BB13368D810E}|LaundryManagementSystem\\LaundryManagementSystem.csproj|c:\\users\\pcb\\source\\repos\\laundryniplato3.0\\laundrymanagementsystem\\dashboardmenu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA7197B5-D4E3-4E35-9016-BB13368D810E}|LaundryManagementSystem\\LaundryManagementSystem.csproj|solutionrelative:laundrymanagementsystem\\dashboardmenu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA7197B5-D4E3-4E35-9016-BB13368D810E}|LaundryManagementSystem\\LaundryManagementSystem.csproj|c:\\users\\pcb\\source\\repos\\laundryniplato3.0\\laundrymanagementsystem\\loginhomepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA7197B5-D4E3-4E35-9016-BB13368D810E}|LaundryManagementSystem\\LaundryManagementSystem.csproj|solutionrelative:laundrymanagementsystem\\loginhomepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UClogout.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\PCB\\source\\repos\\LaundryniPlato3.0\\LaundryManagementSystem\\UClogout.cs",
+              "RelativeDocumentMoniker": "LaundryManagementSystem\\UClogout.cs",
+              "ToolTip": "C:\\Users\\PCB\\source\\repos\\LaundryniPlato3.0\\LaundryManagementSystem\\UClogout.cs [Design]",
+              "RelativeToolTip": "LaundryManagementSystem\\UClogout.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T16:17:37.597Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserControl2.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\PCB\\Source\\Repos\\LaundryniPlato3.0\\LaundryManagementSystem\\UserControl2.Designer.cs",
+              "RelativeDocumentMoniker": "LaundryManagementSystem\\UserControl2.Designer.cs",
+              "ToolTip": "C:\\Users\\PCB\\Source\\Repos\\LaundryniPlato3.0\\LaundryManagementSystem\\UserControl2.Designer.cs",
+              "RelativeToolTip": "LaundryManagementSystem\\UserControl2.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T15:40:25.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserControl3payment.cs",
+              "DocumentMoniker": "C:\\Users\\PCB\\source\\repos\\LaundryniPlato3.0\\LaundryManagementSystem\\UserControl3payment.cs",
+              "RelativeDocumentMoniker": "LaundryManagementSystem\\UserControl3payment.cs",
+              "ToolTip": "C:\\Users\\PCB\\source\\repos\\LaundryniPlato3.0\\LaundryManagementSystem\\UserControl3payment.cs",
+              "RelativeToolTip": "LaundryManagementSystem\\UserControl3payment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T15:58:40.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Payment.cs",
+              "DocumentMoniker": "C:\\Users\\PCB\\source\\repos\\LaundryniPlato3.0\\LaundryManagementSystem\\Payment.cs",
+              "RelativeDocumentMoniker": "LaundryManagementSystem\\Payment.cs",
+              "ToolTip": "C:\\Users\\PCB\\source\\repos\\LaundryniPlato3.0\\LaundryManagementSystem\\Payment.cs",
+              "RelativeToolTip": "LaundryManagementSystem\\Payment.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAA7wBsAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T15:58:53.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dashboard.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\PCB\\source\\repos\\LaundryniPlato3.0\\LaundryManagementSystem\\Dashboard.Designer.cs",
+              "RelativeDocumentMoniker": "LaundryManagementSystem\\Dashboard.Designer.cs",
+              "ToolTip": "C:\\Users\\PCB\\source\\repos\\LaundryniPlato3.0\\LaundryManagementSystem\\Dashboard.Designer.cs",
+              "RelativeToolTip": "LaundryManagementSystem\\Dashboard.Designer.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T15:38:10.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserControl3payment.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\PCB\\source\\repos\\LaundryniPlato3.0\\LaundryManagementSystem\\UserControl3payment.cs",
+              "RelativeDocumentMoniker": "LaundryManagementSystem\\UserControl3payment.cs",
+              "ToolTip": "C:\\Users\\PCB\\source\\repos\\LaundryniPlato3.0\\LaundryManagementSystem\\UserControl3payment.cs [Design]",
+              "RelativeToolTip": "LaundryManagementSystem\\UserControl3payment.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T15:52:53.114Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Payment.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\PCB\\source\\repos\\LaundryniPlato3.0\\LaundryManagementSystem\\Payment.cs",
+              "RelativeDocumentMoniker": "LaundryManagementSystem\\Payment.cs",
+              "ToolTip": "C:\\Users\\PCB\\source\\repos\\LaundryniPlato3.0\\LaundryManagementSystem\\Payment.cs [Design]",
+              "RelativeToolTip": "LaundryManagementSystem\\Payment.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T15:52:14.617Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Dashboard.cs",
+              "DocumentMoniker": "C:\\Users\\PCB\\source\\repos\\LaundryniPlato3.0\\LaundryManagementSystem\\Dashboard.cs",
+              "RelativeDocumentMoniker": "LaundryManagementSystem\\Dashboard.cs",
+              "ToolTip": "C:\\Users\\PCB\\source\\repos\\LaundryniPlato3.0\\LaundryManagementSystem\\Dashboard.cs",
+              "RelativeToolTip": "LaundryManagementSystem\\Dashboard.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAA7wCQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T15:41:17.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UClogout.cs",
+              "DocumentMoniker": "C:\\Users\\PCB\\source\\repos\\LaundryniPlato3.0\\LaundryManagementSystem\\UClogout.cs",
+              "RelativeDocumentMoniker": "LaundryManagementSystem\\UClogout.cs",
+              "ToolTip": "C:\\Users\\PCB\\source\\repos\\LaundryniPlato3.0\\LaundryManagementSystem\\UClogout.cs",
+              "RelativeToolTip": "LaundryManagementSystem\\UClogout.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T16:20:08.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserControl1.cs",
+              "DocumentMoniker": "C:\\Users\\PCB\\source\\repos\\LaundryniPlato3.0\\LaundryManagementSystem\\UserControl1.cs",
+              "RelativeDocumentMoniker": "LaundryManagementSystem\\UserControl1.cs",
+              "ToolTip": "C:\\Users\\PCB\\source\\repos\\LaundryniPlato3.0\\LaundryManagementSystem\\UserControl1.cs",
+              "RelativeToolTip": "LaundryManagementSystem\\UserControl1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T15:40:45.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Dashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\PCB\\source\\repos\\LaundryniPlato3.0\\LaundryManagementSystem\\Dashboard.cs",
+              "RelativeDocumentMoniker": "LaundryManagementSystem\\Dashboard.cs",
+              "ToolTip": "C:\\Users\\PCB\\source\\repos\\LaundryniPlato3.0\\LaundryManagementSystem\\Dashboard.cs [Design]",
+              "RelativeToolTip": "LaundryManagementSystem\\Dashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T15:43:18.491Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MachineList.cs",
+              "DocumentMoniker": "C:\\Users\\PCB\\source\\repos\\LaundryniPlato3.0\\LaundryManagementSystem\\MachineList.cs",
+              "RelativeDocumentMoniker": "LaundryManagementSystem\\MachineList.cs",
+              "ToolTip": "C:\\Users\\PCB\\source\\repos\\LaundryniPlato3.0\\LaundryManagementSystem\\MachineList.cs",
+              "RelativeToolTip": "LaundryManagementSystem\\MachineList.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T16:35:05.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MachineList.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\PCB\\source\\repos\\LaundryniPlato3.0\\LaundryManagementSystem\\MachineList.cs",
+              "RelativeDocumentMoniker": "LaundryManagementSystem\\MachineList.cs",
+              "ToolTip": "C:\\Users\\PCB\\source\\repos\\LaundryniPlato3.0\\LaundryManagementSystem\\MachineList.cs [Design]",
+              "RelativeToolTip": "LaundryManagementSystem\\MachineList.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T16:34:13.487Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "LoginHomepage.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\PCB\\source\\repos\\LaundryniPlato3.0\\LaundryManagementSystem\\LoginHomepage.cs",
+              "RelativeDocumentMoniker": "LaundryManagementSystem\\LoginHomepage.cs",
+              "ToolTip": "C:\\Users\\PCB\\source\\repos\\LaundryniPlato3.0\\LaundryManagementSystem\\LoginHomepage.cs [Design]",
+              "RelativeToolTip": "LaundryManagementSystem\\LoginHomepage.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T15:34:48.878Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UserControl1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\PCB\\source\\repos\\LaundryniPlato3.0\\LaundryManagementSystem\\UserControl1.cs",
+              "RelativeDocumentMoniker": "LaundryManagementSystem\\UserControl1.cs",
+              "ToolTip": "C:\\Users\\PCB\\source\\repos\\LaundryniPlato3.0\\LaundryManagementSystem\\UserControl1.cs [Design]",
+              "RelativeToolTip": "LaundryManagementSystem\\UserControl1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T15:38:26.002Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UserControl3payment.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\PCB\\Source\\Repos\\LaundryniPlato3.0\\LaundryManagementSystem\\UserControl3payment.Designer.cs",
+              "RelativeDocumentMoniker": "LaundryManagementSystem\\UserControl3payment.Designer.cs",
+              "ToolTip": "C:\\Users\\PCB\\Source\\Repos\\LaundryniPlato3.0\\LaundryManagementSystem\\UserControl3payment.Designer.cs",
+              "RelativeToolTip": "LaundryManagementSystem\\UserControl3payment.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T15:55:26.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UserControl2.resx",
+              "DocumentMoniker": "C:\\Users\\PCB\\Source\\Repos\\LaundryniPlato3.0\\LaundryManagementSystem\\UserControl2.resx",
+              "RelativeDocumentMoniker": "LaundryManagementSystem\\UserControl2.resx",
+              "ToolTip": "C:\\Users\\PCB\\Source\\Repos\\LaundryniPlato3.0\\LaundryManagementSystem\\UserControl2.resx",
+              "RelativeToolTip": "LaundryManagementSystem\\UserControl2.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-05-31T15:40:26.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UserControl2.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\PCB\\source\\repos\\LaundryniPlato3.0\\LaundryManagementSystem\\UserControl2.cs",
+              "RelativeDocumentMoniker": "LaundryManagementSystem\\UserControl2.cs",
+              "ToolTip": "C:\\Users\\PCB\\source\\repos\\LaundryniPlato3.0\\LaundryManagementSystem\\UserControl2.cs [Design]",
+              "RelativeToolTip": "LaundryManagementSystem\\UserControl2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T15:38:28.425Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Dashboard.resx",
+              "DocumentMoniker": "C:\\Users\\PCB\\source\\repos\\LaundryniPlato3.0\\LaundryManagementSystem\\Dashboard.resx",
+              "RelativeDocumentMoniker": "LaundryManagementSystem\\Dashboard.resx",
+              "ToolTip": "C:\\Users\\PCB\\source\\repos\\LaundryniPlato3.0\\LaundryManagementSystem\\Dashboard.resx",
+              "RelativeToolTip": "LaundryManagementSystem\\Dashboard.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-05-31T15:38:12.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UserControl2.cs",
+              "DocumentMoniker": "C:\\Users\\PCB\\source\\repos\\LaundryniPlato3.0\\LaundryManagementSystem\\UserControl2.cs",
+              "RelativeDocumentMoniker": "LaundryManagementSystem\\UserControl2.cs",
+              "ToolTip": "C:\\Users\\PCB\\source\\repos\\LaundryniPlato3.0\\LaundryManagementSystem\\UserControl2.cs",
+              "RelativeToolTip": "LaundryManagementSystem\\UserControl2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T15:40:38.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "dashboardMenu.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\PCB\\source\\repos\\LaundryniPlato3.0\\LaundryManagementSystem\\dashboardMenu.Designer.cs",
+              "RelativeDocumentMoniker": "LaundryManagementSystem\\dashboardMenu.Designer.cs",
+              "ToolTip": "C:\\Users\\PCB\\source\\repos\\LaundryniPlato3.0\\LaundryManagementSystem\\dashboardMenu.Designer.cs",
+              "RelativeToolTip": "LaundryManagementSystem\\dashboardMenu.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T15:38:05.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "LoginHomepage.cs",
+              "DocumentMoniker": "C:\\Users\\PCB\\source\\repos\\LaundryniPlato3.0\\LaundryManagementSystem\\LoginHomepage.cs",
+              "RelativeDocumentMoniker": "LaundryManagementSystem\\LoginHomepage.cs",
+              "ToolTip": "C:\\Users\\PCB\\source\\repos\\LaundryniPlato3.0\\LaundryManagementSystem\\LoginHomepage.cs",
+              "RelativeToolTip": "LaundryManagementSystem\\LoginHomepage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T15:35:03.872Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

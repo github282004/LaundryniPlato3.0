@@ -24,7 +24,7 @@ namespace LaundryManagementSystem
             string userName = Username.Text;
             string passWord = Password.Text;
             userName = "admin123";
-            passWord = "admin1005";
+            passWord = "admin12345";
 
             if (Username.Text == userName && Password.Text == passWord)
             {

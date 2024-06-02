@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(LoginHomepage));
             this.label1 = new System.Windows.Forms.Label();
             this.Username = new System.Windows.Forms.TextBox();
             this.Password = new System.Windows.Forms.TextBox();
@@ -42,7 +43,7 @@
             // 
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Arial Narrow", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label1.Location = new System.Drawing.Point(134, 46);
+            this.label1.Location = new System.Drawing.Point(139, 33);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(59, 23);
             this.label1.TabIndex = 0;
@@ -51,15 +52,15 @@
             // Username
             // 
             this.Username.Font = new System.Drawing.Font("Arial Narrow", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.Username.Location = new System.Drawing.Point(60, 105);
+            this.Username.Location = new System.Drawing.Point(52, 88);
             this.Username.Name = "Username";
-            this.Username.Size = new System.Drawing.Size(218, 29);
+            this.Username.Size = new System.Drawing.Size(217, 29);
             this.Username.TabIndex = 1;
             // 
             // Password
             // 
             this.Password.Font = new System.Drawing.Font("Arial Narrow", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.Password.Location = new System.Drawing.Point(60, 171);
+            this.Password.Location = new System.Drawing.Point(51, 143);
             this.Password.Name = "Password";
             this.Password.PasswordChar = '*';
             this.Password.Size = new System.Drawing.Size(218, 29);
@@ -69,7 +70,7 @@
             // 
             this.label2.AutoSize = true;
             this.label2.Font = new System.Drawing.Font("Arial Narrow", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label2.Location = new System.Drawing.Point(56, 82);
+            this.label2.Location = new System.Drawing.Point(48, 65);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(74, 20);
             this.label2.TabIndex = 3;
@@ -79,7 +80,7 @@
             // 
             this.label3.AutoSize = true;
             this.label3.Font = new System.Drawing.Font("Arial Narrow", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label3.Location = new System.Drawing.Point(56, 148);
+            this.label3.Location = new System.Drawing.Point(48, 120);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(66, 20);
             this.label3.TabIndex = 4;
@@ -89,9 +90,9 @@
             // 
             this.LogIn.Cursor = System.Windows.Forms.Cursors.Hand;
             this.LogIn.Font = new System.Drawing.Font("Arial Narrow", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.LogIn.Location = new System.Drawing.Point(138, 206);
+            this.LogIn.Location = new System.Drawing.Point(122, 194);
             this.LogIn.Name = "LogIn";
-            this.LogIn.Size = new System.Drawing.Size(90, 24);
+            this.LogIn.Size = new System.Drawing.Size(90, 29);
             this.LogIn.TabIndex = 5;
             this.LogIn.Text = "LOG IN";
             this.LogIn.UseVisualStyleBackColor = true;
@@ -99,16 +100,18 @@
             // 
             // panel1
             // 
-            this.panel1.BackColor = System.Drawing.Color.DarkTurquoise;
+            this.panel1.BackColor = System.Drawing.Color.PowderBlue;
+            this.panel1.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.panel1.Controls.Add(this.label1);
             this.panel1.Controls.Add(this.Username);
             this.panel1.Controls.Add(this.Password);
             this.panel1.Controls.Add(this.LogIn);
             this.panel1.Controls.Add(this.label2);
             this.panel1.Controls.Add(this.label3);
-            this.panel1.Location = new System.Drawing.Point(217, 76);
+            this.panel1.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
+            this.panel1.Location = new System.Drawing.Point(289, 143);
             this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(342, 306);
+            this.panel1.Size = new System.Drawing.Size(328, 247);
             this.panel1.TabIndex = 8;
             // 
             // LoginHomepage
@@ -116,9 +119,11 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.ActiveCaption;
-            this.BackgroundImage = global::LaundryManagementSystem.Properties.Resources._321314;
-            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("$this.BackgroundImage")));
+            this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.ClientSize = new System.Drawing.Size(871, 514);
             this.Controls.Add(this.panel1);
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.Fixed3D;
             this.Name = "LoginHomepage";
             this.Text = "LOGIN";
             this.panel1.ResumeLayout(false);
